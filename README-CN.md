@@ -1,3 +1,7 @@
+# 介绍
+
+本项目是在原项目Fork的基础上，对sales_chatbot的修改，通过修改语料数据和提示词，实现了一个关于笔记本电脑的销售对话机器人，实现添加在openai-quickstart-chioin/langchain/sales_chatbot路径下。
+
 # OpenAI 快速入门
 
 <p align="center">

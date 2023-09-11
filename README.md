@@ -1,3 +1,7 @@
+# Introduction
+
+This project is the fork of the original project, but added the sale_chatbot demonstration for portable computer notebook, by adding the QA data and also the related prompt, besides the original real estate sale chatbot. The code is added into openai-quickstart-chioin/langchain/sales_chatbot.
+
 # OpenAI Quickstart
 
 <p align="center">
